@@ -1,4 +1,4 @@
-# duyi-demo
+# web-demo
 
 ## Project setup
 ```
